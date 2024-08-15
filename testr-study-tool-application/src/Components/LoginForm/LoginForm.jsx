@@ -15,7 +15,7 @@ function LoginForm() {
 
                 <div className='rememberMe-forgotPass'>
                     <label> <input type='checkbox'/>Remember me </label>
-                    <a href='#'>Forgot password?</a>
+                    <a href='ForgotPassword'>Forgot password?</a>
                 </div>
 
                 <div className='submit'>
@@ -23,7 +23,7 @@ function LoginForm() {
                 </div>
 
                 <div className='user-registration'>
-                    <p>Don't have an account? <a href='#'>Sign up</a></p>
+                    <p>Don't have an account? <a href='/SignUp'>Sign up</a></p>
                 </div>
             </form>
         </div>
