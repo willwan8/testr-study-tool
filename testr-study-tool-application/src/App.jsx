@@ -1,7 +1,7 @@
 import LoginForm from './Components/LoginForm/LoginForm';
-import HomePage from './Pages/HomePage';
-import SignUpPage from './Pages/SignUpPage';
-import ForgotPasswordPage from './Pages/ForgotPasswordPage';
+import HomePage from './Components/Pages/HomePage';
+import SignUpPage from './Components/Pages/SignUpPage';
+import ForgotPasswordPage from './Components/Pages/ForgotPasswordPage';
 import './App.css';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navbar from './Components/Navbar';
